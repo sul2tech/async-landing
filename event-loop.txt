@@ -1,0 +1,8 @@
+EVENT LOOP 
+
+El bucle de eventos es un patron de diseno que espera y distribuye 
+eventos o mensajes en un programa.
+
+Memory heap
+
+ 

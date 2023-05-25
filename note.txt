@@ -1,0 +1,25 @@
+Sincrono:
+
+Las tareas se ejcutan de forma secuencial, se debe esperar a que se completely
+para continuar con la siguiente tareas,
+
+Las tareas pueden ser relaizada mas tarde, lo que hace posible que una repuesta precesda es diferente
+
+CONCURRENCIA EN JAVASCRIPT
+
+Utiliza un modelo de concurrencia basado en un lopp de eventos
+
+Callbacks 
+
+Una funcion que es pasada como argumento de otra funcion y que sera invocada.
+
+Promesas (es6)
+
+Funciones no bloqueante y asicrona la cual pueden retornar un valor ahora, en el futuro 
+o nunca.
+
+Async/ Await 
+
+Permite estrucurar una funcion asincronica sin bloqueo de una manera
+similar a una funcion sincronica ardinaria
+
